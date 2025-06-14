@@ -34,8 +34,8 @@ python manage.py runserver
     ```bash
     sudo apt update
     sudo apt install python3-pip python3-venv git
-    git clone https://github.com/seuusuario/flix-api.git
-    cd flix-api
+    git clone https://github.com/Chris-Mathias/flix_api.git
+    cd flix_api
     python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
